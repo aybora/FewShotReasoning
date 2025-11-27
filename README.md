@@ -4,7 +4,7 @@
 
 We present the first few-shot reinforcement learning with verifiable reward (RLVR) framework for satellite imagery that eliminates the need for caption supervision--relying solely on lightweight, rule-based binary or IoU-based rewards. Adapting the "1-shot RLVR" paradigm from language models to vision-language models, we employ policy-gradient optimization with as few as one curated example to align model outputs for satellite reasoning tasks. 
 
-### [Paper (arXiv)](https://arxiv.org/abs/2507.21745) [Paper (CVF)](https://openaccess.thecvf.com/content/ICCV2025W/CDEL/papers/Koksal_Few-Shot_Vision-Language_Reasoning_for_Satellite_Imagery_via_Verifiable_Rewards_ICCVW_2025_paper.pdf)
+### [Paper (arXiv)](https://arxiv.org/abs/2507.21745) | [Paper (CVF)](https://openaccess.thecvf.com/content/ICCV2025W/CDEL/papers/Koksal_Few-Shot_Vision-Language_Reasoning_for_Satellite_Imagery_via_Verifiable_Rewards_ICCVW_2025_paper.pdf)
 
 ### Installation
 
